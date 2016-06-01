@@ -1,0 +1,17 @@
+{
+  "name": "mpk-codechallenge",
+  "version": "1.0.0",
+  "description": "Base for code challange used at medicinpriser",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "browser-sync": "^2.9.10",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.2",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4"
+  }
+}

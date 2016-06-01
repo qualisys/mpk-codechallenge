@@ -1,0 +1,33 @@
+node_modules
+bower_components
+source/styles/dist
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lnk
+
+### Linux ###
+*~
+.directory
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+### WebStorm ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+/*.iml
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
