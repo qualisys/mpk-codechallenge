@@ -1,4 +1,4 @@
-#Medicinpriser - Code challange#
+#Medicinpriser - Code challenge#
 
 Your mission, should you choose to accept is to crate a simple game of **Tic-tac-toe**. The game should be 
 structured using angular controllers and views. This starter pack contains a base structure of angular with a empty
@@ -25,14 +25,14 @@ You should now see a orange page with a white box saying Tic-tac-toe and the sam
 this in anyway you see fit :)
 
 ##What is included in this project##
-* Angular 1
+* Angular 1.5
 * Angular UI Router
 * Twitter bootstrap
 * SASS to CSS compile task
 
 ##How to submit##
 * If you forked this project just push your changes and send a email with the url to your public fork or make sure to 
-invite us so we can view your project. Or send your project **without** node or bower dependencies as a zipped file to emil@medicinpriser.se
+invite us so we can view your private project. Or send your project **without** node or bower dependencies as a zipped file to emil@medicinpriser.se
 
 ##What happens next##
 Give us a few days to look through your code and we will arrange for a 2nd interview where we go through the code to learn 
