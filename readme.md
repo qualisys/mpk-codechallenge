@@ -3,7 +3,7 @@
 Your mission, should you choose to accept is to crate a simple game of **Tic-tac-toe**. The game should be 
 structured using angular controllers and views. This starter pack contains a base structure of angular with a empty
 start view. The game should at least be able to handle state and high score of who is winning. It is not nessesary to 
-implement a computer to play agains, 2 player game in the brower is fine. You can spend as much or little time as you feel is 
+implement a computer to play against, 2 player game in the brower is fine. You can spend as much or little time as you feel is 
 necessary but **no more than 5 hours**. It is okay so submit a non-finished project as long as the base functionallity is 
 there.
 
