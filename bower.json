@@ -1,6 +1,6 @@
 {
-  "name": "mpk-codechallenge",
-  "description": "Base for code challange used at medicinpriser",
+  "name": "aualisys-codechallenge",
+  "description": "Base for code challange used at Qualisys",
   "authors": [],
   "private": true,
   "ignore": [

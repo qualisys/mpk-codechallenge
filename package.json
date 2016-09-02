@@ -1,7 +1,7 @@
 {
-  "name": "mpk-codechallenge",
+  "name": "qualisys-codechallenge",
   "version": "1.0.0",
-  "description": "Base for code challange used at medicinpriser",
+  "description": "Base for code challange used at Qualisys",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
