@@ -1,4 +1,4 @@
-#Medicinpriser - Code challenge#
+#Qualisys - Code challenge#
 
 Your mission, should you choose to accept it, is to crate a simple game of **Tic-tac-toe**. The game should be
 structured using Angular controllers and views. This starter pack contains a basic Angular application structure with
@@ -31,19 +31,18 @@ this in anyway you see fit :)
 * SASS to CSS compile task
 
 ##How to submit##
-* If you forked this project just push your changes and send an email with the url to your public fork or make sure to
-invite us so we can view your private project. Alternatively send your project **without** node or bower dependencies
-as a zipped file to emil@medicinpriser.se
+* If you forked this project just push your changes and send us an email with the url to your public fork or make sure to
+invite us so we can view your private project. Alternatively send us your project **without** node or bower dependencies
+as a zipped file.
 
 ##What happens next##
-We'll take a few days to look through your code. After that, we will arrange for a second interview, where we will go
-through the code with you to learn more about the decisions you made and why. For this second interview, make sure
-you're prepared to answer questions about your code.
+We'll take a few days to look through your code, then we'll make an assessment
+together with our thoughts from the interview.
 
 ##Troubleshooting##
 
 `Local gulp not found in ...`
-Make sure you run npm install
+Make sure you run npm install.
 
 `npm WARN deprecated`
-If you get some warnings when installing npm packages you can ignore these for now
+If you get some warnings when installing npm packages you can ignore these for now.
