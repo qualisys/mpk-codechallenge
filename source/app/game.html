@@ -1,0 +1,29 @@
+<style>
+	/*
+	Using style element here, instead of in CSS file,
+	to be able to use maxSquares
+	*/
+	.square:nth-of-type({{ maxSquares }}n + 1) {
+		clear:both;
+	}
+</style>
+
+<div class="container">
+  <h1>{{ title }}{{ isGameOver() ? '' : ' - Player ' + getCurrentPlayer()}}</h1>
+  <div ng-class="isGameOver() ? 'gameover' : ''" class="board">
+		<div class="square played_{{ getPlayed(o) }}"	id="sq_{{ o.x }}_{{ o.y }}"
+			ng-repeat="o in squares" ng-click="playSquare(o)">
+		</div>
+	</div>
+	<div class="highscores">
+		<h2>Highscores</h2>
+		<ol>
+			<li ng-repeat="p in getWinnings() track by $index">Player {{ $index + 1 }}: {{ p }}
+		</ol>
+	</div>
+	<div ng-if="isGameOver()" class="play-again">
+		<form name="form" ng-submit="playAgain(form)" ng-model="data">
+			<button class="btn btn-primary">Play again</button>
+		</form>
+	</div>
+</div>
