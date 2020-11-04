@@ -1,4 +1,4 @@
-#Qualisys - Code challenge#
+# Qualisys - Code challenge
 
 Your mission, should you choose to accept it, is to crate a simple game of **Tic-tac-toe**. The game should be
 structured using Angular controllers and views. This starter pack contains a basic Angular application structure with
@@ -10,12 +10,12 @@ long as the base functionallity is there.
 ![Tic-Tac-Toe](source/images/TicTacToe.png)
 
 
-##Prerequisites##
+## Prerequisites
 * Node ^5.5.0
 * Bower
 * Gulp
 
-##How to get started##
+## How to get started
 * Fork or download this project
 * Install npm dependencies ```$ npm install```
 * Install bower dependencies ```$ bower install```
@@ -24,22 +24,22 @@ long as the base functionallity is there.
 You should now see an orange page with a white box saying Tic-tac-toe and the same picture as above. Feel free to change
 this in anyway you see fit :)
 
-##What is included in this project##
+## What is included in this project
 * Angular 1.5
 * Angular UI Router
 * Twitter bootstrap
 * SASS to CSS compile task
 
-##How to submit##
+## How to submit
 * If you forked this project just push your changes and send us an email with the url to your public fork or make sure to
 invite us so we can view your private project. Alternatively send us your project **without** node or bower dependencies
 as a zipped file.
 
-##What happens next##
+## What happens next
 We'll take a few days to look through your code, then we'll make an assessment
 together with our thoughts from the interview.
 
-##Troubleshooting##
+## Troubleshooting
 
 `Local gulp not found in ...`
 Make sure you run npm install.
